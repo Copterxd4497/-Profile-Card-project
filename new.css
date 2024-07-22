@@ -1,0 +1,26 @@
+body{
+    background-color: #DBBF92;
+}
+
+#this_crad{
+    display: flex;
+    justify-content: center;
+    margin-top: 6%;
+    margin-bottom: 10%;
+    border-width: 0;
+}
+.first{
+    margin-left: 4rem;
+}
+.second{
+    float: right;
+    margin-right: 4rem;
+}
+.botton{
+    background-color: #00DBD9;
+    border-width: 0;
+    border-radius: 8px;
+    width: 5rem;
+    height: 2.5rem;
+    font-size: 20px;
+}
